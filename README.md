@@ -57,8 +57,7 @@ p {
     </p>
 
     <p>
-        A new project exploring the people, events,
-        products and innovations that shaped 1951.
+        Hold onto your pants.
     </p>
 
     <p class="small">
